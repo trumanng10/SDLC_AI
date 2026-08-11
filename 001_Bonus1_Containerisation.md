@@ -1,6 +1,6 @@
 Assumes **Windows 10/11 + VS Code + GitHub Copilot**, and deliberately explains what each command is doing.
 
-# Lab 02 — Containerise a .NET Web API and Upload It to Docker Hub
+# Bonus Lab 1 — Containerise a .NET Web API and Upload It to Docker Hub
 
 ## 1. Lab Objective
 
