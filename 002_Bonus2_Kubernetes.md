@@ -1,5 +1,5 @@
 
-# Lab 03 — Deploy Lab02API to Kubernetes Using VS Code and GitHub Copilot
+# Bonus 02 — Deploy Lab02API to Kubernetes Using VS Code and GitHub Copilot
 
 ## 1. Lab Objective
 
