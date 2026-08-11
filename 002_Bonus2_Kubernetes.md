@@ -3,7 +3,7 @@
 
 ## 1. Lab Objective
 
-In Lab 02, we completed:
+In Bonus Lab 1, we completed:
 
 ```text
 Lab02API
