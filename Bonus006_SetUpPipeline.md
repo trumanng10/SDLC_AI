@@ -1,4 +1,4 @@
-Truman, the simplest reliable setup is:
+
 
 **Developer → GitHub → GitHub Webhook → Jenkins → Jenkinsfile → Build/Test**
 
